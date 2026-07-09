@@ -1,0 +1,34 @@
+[
+  {
+    "section_id": "hero_banner",
+    "layout_type": "HERO",
+    "title": "Featured Spotlight",
+    "visible": true
+  },
+  {
+    "section_id": "top_10_global",
+    "layout_type": "TOP_10",
+    "title": "Top 10 Hits",
+    "visible": true
+  },
+  {
+    "section_id": "kr_jp_mixed",
+    "layout_type": "DRAMA_RAIL",
+    "title": "Korean & Japanese",
+    "visible": true,
+    "data_source": {
+      "media_type": "all",
+      "countries": [
+        "KR",
+        "JP"
+      ],
+      "sort_by": "popularity"
+    }
+  },
+  {
+    "section_id": "trending_actors",
+    "layout_type": "ACTORS",
+    "title": "Trending Stars",
+    "visible": true
+  }
+]
