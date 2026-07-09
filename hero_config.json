@@ -3,21 +3,6 @@
     "mode": "HYBRID",
     "max_items": 6,
     "auto_source": "popular",
-    "pinned_items": [
-      {
-        "drama_id": "94605",
-        "position": 5,
-        "drama": {
-          "slug": "tv-94605",
-          "title": "Arcane",
-          "poster_url": "https://image.tmdb.org/t/p/w500/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
-          "backdrop_url": "https://image.tmdb.org/t/p/w1280/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
-          "rating": 8.751,
-          "year": 2021,
-          "type": "tv",
-          "country": "US"
-        }
-      }
-    ]
+    "pinned_items": []
   }
 }
