@@ -14,7 +14,8 @@
           "backdrop_url": "https://image.tmdb.org/t/p/w1280/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
           "rating": 7.4,
           "year": 2026,
-          "type": "tv"
+          "type": "tv",
+          "country": "KR"
         }
       },
       {
@@ -27,7 +28,8 @@
           "backdrop_url": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
           "rating": 9.467,
           "year": 2026,
-          "type": "tv"
+          "type": "tv",
+          "country": "KR"
         }
       }
     ]
