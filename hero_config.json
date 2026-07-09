@@ -3,21 +3,6 @@
     "mode": "HYBRID",
     "max_items": 6,
     "auto_source": "popular",
-    "pinned_items": [
-      {
-        "drama_id": "111837",
-        "position": 1,
-        "drama": {
-          "slug": "tv-111837",
-          "title": "Queen of Tears",
-          "backdrop_url": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=1200",
-          "rating": 8.5,
-          "year": 2024,
-          "type": "tv",
-          "country": "KR",
-          "synopsis": ""
-        }
-      }
-    ]
+    "pinned_items": []
   }
 }
