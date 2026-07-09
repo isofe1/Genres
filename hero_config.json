@@ -5,34 +5,6 @@
     "auto_source": "popular",
     "pinned_items": [
       {
-        "drama_id": "96648",
-        "position": 2,
-        "drama": {
-          "slug": "tv-96648",
-          "title": "Sweet Home",
-          "poster_url": "https://image.tmdb.org/t/p/w500/7rNWciOcHOH97XIeS1KFuMmjyky.jpg",
-          "backdrop_url": "https://image.tmdb.org/t/p/w1280/mceCXNTny6a5F3rQgShLoyARw4l.jpg",
-          "rating": 8.2,
-          "year": 2020,
-          "type": "tv",
-          "country": "KR"
-        }
-      },
-      {
-        "drama_id": "212151",
-        "position": 3,
-        "drama": {
-          "slug": "movie-212151",
-          "title": "The Taming of Rebecca",
-          "poster_url": "https://image.tmdb.org/t/p/w500/hasm61XkhazAXoYwYRfem1NYjrJ.jpg",
-          "backdrop_url": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=1200",
-          "rating": 4.25,
-          "year": 1982,
-          "type": "movie",
-          "country": "US"
-        }
-      },
-      {
         "drama_id": "117376",
         "position": 4,
         "drama": {
