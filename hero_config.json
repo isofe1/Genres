@@ -5,20 +5,6 @@
     "auto_source": "popular",
     "pinned_items": [
       {
-        "drama_id": "117376",
-        "position": 4,
-        "drama": {
-          "slug": "tv-117376",
-          "title": "Vincenzo",
-          "poster_url": "https://image.tmdb.org/t/p/w500/qbkSS1cTjT4DzIwD44bdhTuYgdT.jpg",
-          "backdrop_url": "https://image.tmdb.org/t/p/w1280/sf7NCqyVUNoyjYuwW5oJke1T1lH.jpg",
-          "rating": 8.516,
-          "year": 2021,
-          "type": "tv",
-          "country": "KR"
-        }
-      },
-      {
         "drama_id": "94605",
         "position": 5,
         "drama": {
