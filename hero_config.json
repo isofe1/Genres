@@ -3,6 +3,49 @@
     "mode": "HYBRID",
     "max_items": 6,
     "auto_source": "popular",
-    "pinned_items": []
+    "pinned_items": [
+      {
+        "drama_id": "259837",
+        "position": 1,
+        "drama": {
+          "slug": "tv-259837",
+          "title": "The WONDERfools",
+          "poster_url": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+          "backdrop_url": "https://image.tmdb.org/t/p/w1280/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
+          "rating": 8,
+          "year": 2026,
+          "type": "tv",
+          "country": "KR"
+        }
+      },
+      {
+        "drama_id": "296206",
+        "position": 2,
+        "drama": {
+          "slug": "tv-296206",
+          "title": "Agent Kim Reactivated",
+          "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
+          "backdrop_url": "https://image.tmdb.org/t/p/w1280/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+          "rating": 8,
+          "year": 2026,
+          "type": "tv",
+          "country": "KR"
+        }
+      },
+      {
+        "drama_id": "276161",
+        "position": 3,
+        "drama": {
+          "slug": "tv-276161",
+          "title": "Teach You a Lesson",
+          "poster_url": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+          "backdrop_url": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+          "rating": 8,
+          "year": 2026,
+          "type": "tv",
+          "country": "KR"
+        }
+      }
+    ]
   }
 }
