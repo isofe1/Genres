@@ -59,20 +59,6 @@
           "country": "KR",
           "synopsis": ""
         }
-      },
-      {
-        "drama_id": "94605",
-        "position": 5,
-        "drama": {
-          "slug": "tv-94605",
-          "title": "Sweet Home",
-          "backdrop_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=1200",
-          "rating": 8.4,
-          "year": 2020,
-          "type": "tv",
-          "country": "KR",
-          "synopsis": ""
-        }
       }
     ]
   }
