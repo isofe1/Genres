@@ -45,20 +45,6 @@
           "country": "KR",
           "synopsis": ""
         }
-      },
-      {
-        "drama_id": "117376",
-        "position": 4,
-        "drama": {
-          "slug": "tv-117376",
-          "title": "Vincenzo",
-          "backdrop_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1200",
-          "rating": 8.5,
-          "year": 2021,
-          "type": "tv",
-          "country": "KR",
-          "synopsis": ""
-        }
       }
     ]
   }
