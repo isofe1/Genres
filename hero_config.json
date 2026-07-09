@@ -5,45 +5,73 @@
     "auto_source": "popular",
     "pinned_items": [
       {
-        "drama_id": "999421",
+        "drama_id": "111837",
         "position": 1,
         "drama": {
-          "slug": "tv-999421",
-          "title": "Drama (ID: 999421)",
-          "poster_url": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?q=80&w=600",
-          "backdrop_url": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=1200",
-          "rating": 8,
-          "year": 2024,
+          "slug": "tv-111837",
+          "title": "Willow",
+          "poster_url": "https://image.tmdb.org/t/p/w500/lw4n5CBlLR62nogy46FyJaIFziH.jpg",
+          "backdrop_url": "https://image.tmdb.org/t/p/w1280/93SxdkiR3gBcbG5FxIt0DCBttul.jpg",
+          "rating": 6.615,
+          "year": 2022,
           "type": "tv",
-          "country": "KR"
+          "country": "US"
         }
       },
       {
-        "drama_id": "296206",
+        "drama_id": "96648",
         "position": 2,
         "drama": {
-          "slug": "tv-296206",
-          "title": "Drama (ID: 296206)",
-          "poster_url": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?q=80&w=600",
-          "backdrop_url": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=1200",
-          "rating": 8,
-          "year": 2024,
+          "slug": "tv-96648",
+          "title": "Sweet Home",
+          "poster_url": "https://image.tmdb.org/t/p/w500/7rNWciOcHOH97XIeS1KFuMmjyky.jpg",
+          "backdrop_url": "https://image.tmdb.org/t/p/w1280/mceCXNTny6a5F3rQgShLoyARw4l.jpg",
+          "rating": 8.2,
+          "year": 2020,
           "type": "tv",
           "country": "KR"
         }
       },
       {
-        "drama_id": "276161",
+        "drama_id": "212151",
         "position": 3,
         "drama": {
-          "slug": "tv-276161",
-          "title": "Drama (ID: 276161)",
-          "poster_url": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?q=80&w=600",
+          "slug": "movie-212151",
+          "title": "The Taming of Rebecca",
+          "poster_url": "https://image.tmdb.org/t/p/w500/hasm61XkhazAXoYwYRfem1NYjrJ.jpg",
           "backdrop_url": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=1200",
-          "rating": 8,
-          "year": 2024,
+          "rating": 4.25,
+          "year": 1982,
+          "type": "movie",
+          "country": "US"
+        }
+      },
+      {
+        "drama_id": "117376",
+        "position": 4,
+        "drama": {
+          "slug": "tv-117376",
+          "title": "Vincenzo",
+          "poster_url": "https://image.tmdb.org/t/p/w500/qbkSS1cTjT4DzIwD44bdhTuYgdT.jpg",
+          "backdrop_url": "https://image.tmdb.org/t/p/w1280/sf7NCqyVUNoyjYuwW5oJke1T1lH.jpg",
+          "rating": 8.516,
+          "year": 2021,
           "type": "tv",
           "country": "KR"
+        }
+      },
+      {
+        "drama_id": "94605",
+        "position": 5,
+        "drama": {
+          "slug": "tv-94605",
+          "title": "Arcane",
+          "poster_url": "https://image.tmdb.org/t/p/w500/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
+          "backdrop_url": "https://image.tmdb.org/t/p/w1280/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
+          "rating": 8.751,
+          "year": 2021,
+          "type": "tv",
+          "country": "US"
         }
       }
     ]
