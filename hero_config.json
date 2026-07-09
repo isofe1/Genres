@@ -1,0 +1,17 @@
+{
+  "hero_config": {
+    "mode": "HYBRID",
+    "max_items": 6,
+    "auto_source": "popular",
+    "pinned_items": [
+      {
+        "drama_id": "drama_123_id",
+        "position": 1
+      },
+      {
+        "drama_id": "drama_456_id",
+        "position": 3
+      }
+    ]
+  }
+}
