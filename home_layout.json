@@ -18,7 +18,9 @@
     "visible": true,
     "data_source": {
       "media_type": "tv",
-      "countries": ["KR"],
+      "countries": [
+        "KR"
+      ],
       "sort_by": "popularity"
     }
   },
@@ -29,7 +31,11 @@
     "visible": true,
     "data_source": {
       "media_type": "movie",
-      "countries": ["KR", "JP", "CN"],
+      "countries": [
+        "KR",
+        "JP",
+        "CN"
+      ],
       "sort_by": "rating"
     }
   },
@@ -46,18 +52,9 @@
     "visible": true,
     "data_source": {
       "media_type": "tv",
-      "countries": ["JP"],
-      "sort_by": "popularity"
-    }
-  },
-  {
-    "section_id": "7",
-    "layout_type": "DRAMA_RAIL",
-    "title": "Popular CDramas",
-    "visible": true,
-    "data_source": {
-      "media_type": "tv",
-      "countries": ["CN"],
+      "countries": [
+        "JP"
+      ],
       "sort_by": "popularity"
     }
   }
