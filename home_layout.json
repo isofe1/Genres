@@ -57,5 +57,18 @@
       ],
       "sort_by": "popularity"
     }
+  },
+  {
+    "section_id": "7",
+    "layout_type": "DRAMA_RAIL",
+    "title": "Popular CDramas",
+    "visible": true,
+    "data_source": {
+      "media_type": "tv",
+      "countries": [
+        "CN"
+      ],
+      "sort_by": "popularity"
+    }
   }
 ]
